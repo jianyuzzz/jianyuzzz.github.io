@@ -382,9 +382,9 @@ han: false
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
-  count: true
+  enable: true
+  shortname: Jianyu
+  count: 5
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
   hide: false
