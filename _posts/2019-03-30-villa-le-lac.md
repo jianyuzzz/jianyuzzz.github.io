@@ -13,3 +13,6 @@ tags:
 
 <img src="{{site.baseurl}}/assets/images/villa-03.jpeg">
 
+<img src="{{site.baseurl}}/assets/images/villa-04.jpeg">
+
+虽是设计经典，当代的人居住进去却会觉得非常逼仄狭小。
