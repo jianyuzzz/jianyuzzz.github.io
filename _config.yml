@@ -5,7 +5,7 @@
 
 # Site
 title: 手心煎魚
-subtitle: 紀錄一些天馬行空的想法。
+subtitle: 紀錄一些天馬行空、不著邊際的想法。
 description: 小城青年/異鄉人
 author: Jianyu
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -87,7 +87,7 @@ keywords: "Jekyll, NexT"
 rss:
 
 # Specify the date when the site was setup
-#since: 2015
+since: 2021
 
 # icon between year and author @Footer
 authoricon: heart
@@ -213,9 +213,8 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
-  #LinkLabel: Link
-  Twitter: https://twitter.com/jyzhao93
+social:
+  Instagram: https://www.instagram.com/planetzjy/
   Weibo: https://www.weibo.com/2497537753/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1
 
 
@@ -231,6 +230,7 @@ social_icons:
   GitHub: github
   Twitter: twitter
   Weibo: weibo
+  Instagram: instagram
 
 
 # Sidebar Avatar
@@ -464,7 +464,7 @@ gitalk:
 #google_site_verification:
 
 # Google Analytics
-#google_analytics:
+google_analytics: 266801255
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
